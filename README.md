@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-ronigrv-the-internet-in-one-word-e388f33b/iiifebri/entry-internet-one-word/rank.svg)](https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-internet-in-one-word-e388f33b)
 [![reward](https://make.fun/badge/u-ronigrv-the-internet-in-one-word-e388f33b/iiifebri/entry-internet-one-word/reward.svg)](https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-internet-in-one-word-e388f33b)
 
-One word for the whole internet: Feral. A tiny program that writes the entry word to entry.txt for make.fun's "The Internet in One Word" bounty.
+One word for the whole internet: Unpaid. A tiny program that writes the entry word to entry.txt for make.fun's "The Internet in One Word" bounty.
 
 ## Run it
 
